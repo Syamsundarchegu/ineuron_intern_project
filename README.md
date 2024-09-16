@@ -1,4 +1,3 @@
-![Screenshot 2024-09-16 102502](https://github.com/user-attachments/assets/a9eb38f9-091e-4786-b10b-d1e13d10c9bc)
 # Credit-Card-Default-Prediction
 Internship for Ineuron
 
