@@ -41,9 +41,9 @@ this commond in the project directory after cloning the repository.
 
 ## Created a enivronment in vs code terminal
 
-conda create -name env
+> conda create -name env
 
-pip install -r requirements.txt
+> pip install -r requirements.txt
 
 ## Directory Tree
 
