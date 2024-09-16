@@ -1,3 +1,4 @@
+![Screenshot 2024-09-16 102502](https://github.com/user-attachments/assets/a9eb38f9-091e-4786-b10b-d1e13d10c9bc)
 # Credit-Card-Default-Prediction
 Internship for Ineuron
 
@@ -75,6 +76,12 @@ pip install -r requirements.txt
 
 ## Technologies Used 
 
+![Screenshot 2024-09-16 102502](https://github.com/user-attachments/assets/a0915d25-7586-42ba-a015-f9a43c1bc2f6)
 
+## Credits
+> The Datasets has been provided by kaggle. The original dataset can be available at the UCI Machine Learning Repository. This project wouldn't have possible without dataset.
 
+## Contributor
+
+## Syam Sundar Chegu
 
