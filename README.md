@@ -41,21 +41,35 @@ pip install -r requirements.txt
 ## Directory Tree
 
 ├── templates 
+
 │   └── Architecture.pdf
+
 │   └── DPR.pptx
+
 │   └── HLD.pdf
-│   └── LLD.pdf
+
+│   └── LLD.pdf 
+
 │   └── Wireframe
+
 ├── templates 
+
 │   └── index.html
+
 ├── app.py
-├── app.ipynb
+
 ├── final.ipynb
+
 ├── UCI_Credit_Card.csv
+
 ├── model.pkl
+
 ├── Procfile
+
 ├── README.md
+
 ├── mylog.log
+
 └── requirements.txt
 
 ## Technologies Used 
